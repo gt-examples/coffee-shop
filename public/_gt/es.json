@@ -1,0 +1,95 @@
+{
+  "0018d223ce384ae7": "Un menú de cafetería multilingüe que muestra precios de bebidas, tamaños, información dietética y ofertas de temporada usando General Translation.",
+  "0b36b38ce5c662f1": {
+    "c": {
+      "c": "Esta es una aplicación de ejemplo creada con General Translation para demostrar la internacionalización. No es una cafetería real.",
+      "i": 2,
+      "t": "p"
+    },
+    "i": 1,
+    "t": "div"
+  },
+  "2719604c7ee1213c": "Cafetería",
+  "98c5091460c75f0a": "Cafetería | General Translation",
+  "a013c005483cdd19": {
+    "i": 1,
+    "t": "TagBadge"
+  },
+  "c0e48e5dd8882fb8": {
+    "c": [
+      {
+        "c": "Información dietética",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": "Sin lácteos",
+                "i": 5,
+                "t": "p"
+              },
+              {
+                "c": "Elaborado sin ningún producto lácteo. Disponible con leche de avena, almendra o soja.",
+                "i": 6,
+                "t": "p"
+              }
+            ],
+            "i": 4,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Vegano",
+                "i": 8,
+                "t": "p"
+              },
+              {
+                "c": "No contiene ningún producto de origen animal. Todos los jarabes son de origen vegetal.",
+                "i": 9,
+                "t": "p"
+              }
+            ],
+            "i": 7,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "De temporada",
+                "i": 11,
+                "t": "p"
+              },
+              {
+                "c": "Disponible por tiempo limitado. Ingredientes de temporada procedentes de granjas locales.",
+                "i": 12,
+                "t": "p"
+              }
+            ],
+            "i": 10,
+            "t": "div"
+          }
+        ],
+        "i": 3,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "e91062c6388cb614": [
+    {
+      "c": "Menú",
+      "i": 1,
+      "t": "h2"
+    },
+    {
+      "c": "Bebidas artesanales elaboradas con ingredientes cuidadosamente seleccionados. Todos los precios en USD. Leche de avena, almendra y soya disponibles como sustitutos para cualquier bebida.",
+      "i": 2,
+      "t": "p"
+    }
+  ]
+}
