@@ -1,5 +1,5 @@
 {
-  "0018d223ce384ae7": "Menu de café multilingue affichant les prix des boissons, les tailles, les informations diététiques et les offres saisonnières avec General Translation.",
+  "0018d223ce384ae7": "Un menu de café multilingue qui présente les prix des boissons, les tailles, les informations nutritionnelles et les offres saisonnières avec General Translation.",
   "0b36b38ce5c662f1": {
     "c": {
       "c": "Ceci est un exemple d'application développée avec General Translation pour illustrer l'internationalisation. Ce n'est pas un vrai café.",
@@ -10,10 +10,538 @@
     "t": "div"
   },
   "2719604c7ee1213c": "Café",
-  "98c5091460c75f0a": "Café | General Translation",
-  "a013c005483cdd19": {
+  "51f5a4d4b5d71ab3": {
+    "c": [
+      {
+        "c": "Cold Brew",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": "Infusé pendant 18 heures, produisant une boisson douce et peu acide servie sur glace.",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": "Moyen",
+                "i": 6,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 8,
+                  "k": "_gt_cost_8",
+                  "v": "c"
+                },
+                "i": 7,
+                "t": "span"
+              }
+            ],
+            "i": 5,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Grand",
+                "i": 10,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 12,
+                  "k": "_gt_cost_12",
+                  "v": "c"
+                },
+                "i": 11,
+                "t": "span"
+              }
+            ],
+            "i": 9,
+            "t": "div"
+          }
+        ],
+        "i": 4,
+        "t": "div"
+      },
+      {
+        "c": [
+          {
+            "c": "Sans produits laitiers",
+            "i": 14,
+            "t": "span"
+          },
+          {
+            "c": "Végétalien",
+            "i": 15,
+            "t": "span"
+          }
+        ],
+        "i": 13,
+        "t": "div"
+      }
+    ],
     "i": 1,
-    "t": "TagBadge"
+    "t": "div"
+  },
+  "5714d5d9671bbe26": {
+    "c": [
+      {
+        "c": "Menu",
+        "i": 2,
+        "t": "h2"
+      },
+      {
+        "c": "Boissons artisanales préparées avec des ingrédients soigneusement sélectionnés. Tous les prix sont en USD. Lait d'avoine, d'amande et de soja disponibles en substitution pour toute boisson.",
+        "i": 3,
+        "t": "p"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "69ac2a322f199f52": {
+    "c": [
+      {
+        "c": "Cappuccino",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": "Parts égales d'espresso, de lait vapeur et de mousse onctueuse.",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": "Petit",
+                "i": 6,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 8,
+                  "k": "_gt_cost_8",
+                  "v": "c"
+                },
+                "i": 7,
+                "t": "span"
+              }
+            ],
+            "i": 5,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Moyen",
+                "i": 10,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 12,
+                  "k": "_gt_cost_12",
+                  "v": "c"
+                },
+                "i": 11,
+                "t": "span"
+              }
+            ],
+            "i": 9,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Grand",
+                "i": 14,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 16,
+                  "k": "_gt_cost_16",
+                  "v": "c"
+                },
+                "i": 15,
+                "t": "span"
+              }
+            ],
+            "i": 13,
+            "t": "div"
+          }
+        ],
+        "i": 4,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "7ca594faa51de653": {
+    "c": [
+      {
+        "c": [
+          {
+            "c": "Maple Pecan Cold Brew",
+            "i": 3,
+            "t": "h3"
+          },
+          {
+            "c": "Saisonnier",
+            "i": 4,
+            "t": "span"
+          }
+        ],
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Cold brew au sirop d'érable naturel, lait de noix de pécan et une touche de vanille.",
+        "i": 5,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": "Moyen",
+                "i": 8,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 10,
+                  "k": "_gt_cost_10",
+                  "v": "c"
+                },
+                "i": 9,
+                "t": "span"
+              }
+            ],
+            "i": 7,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Grand",
+                "i": 12,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 14,
+                  "k": "_gt_cost_14",
+                  "v": "c"
+                },
+                "i": 13,
+                "t": "span"
+              }
+            ],
+            "i": 11,
+            "t": "div"
+          }
+        ],
+        "i": 6,
+        "t": "div"
+      },
+      {
+        "c": [
+          {
+            "c": "Saisonnier",
+            "i": 16,
+            "t": "span"
+          },
+          {
+            "c": "Sans lactose",
+            "i": 17,
+            "t": "span"
+          },
+          {
+            "c": "Végétalien",
+            "i": 18,
+            "t": "span"
+          }
+        ],
+        "i": 15,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "85231e0c84bc1a4e": {
+    "c": [
+      {
+        "c": [
+          {
+            "c": "Lavender Honey Latte",
+            "i": 3,
+            "t": "h3"
+          },
+          {
+            "c": "Saisonnier",
+            "i": 4,
+            "t": "span"
+          }
+        ],
+        "i": 2,
+        "t": "div"
+      },
+      {
+        "c": "Espresso avec sirop de lavande maison, miel local et lait vapeur.",
+        "i": 5,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": "Petit",
+                "i": 8,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 10,
+                  "k": "_gt_cost_10",
+                  "v": "c"
+                },
+                "i": 9,
+                "t": "span"
+              }
+            ],
+            "i": 7,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Moyen",
+                "i": 12,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 14,
+                  "k": "_gt_cost_14",
+                  "v": "c"
+                },
+                "i": 13,
+                "t": "span"
+              }
+            ],
+            "i": 11,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Grand",
+                "i": 16,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 18,
+                  "k": "_gt_cost_18",
+                  "v": "c"
+                },
+                "i": 17,
+                "t": "span"
+              }
+            ],
+            "i": 15,
+            "t": "div"
+          }
+        ],
+        "i": 6,
+        "t": "div"
+      },
+      {
+        "c": {
+          "c": "Saisonnier",
+          "i": 20,
+          "t": "span"
+        },
+        "i": 19,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "921bfd31a96d1059": {
+    "c": [
+      {
+        "c": "Espresso",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": "Shot riche et corsé d'une intensité café pure.",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": "Simple",
+                "i": 6,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 8,
+                  "k": "_gt_cost_8",
+                  "v": "c"
+                },
+                "i": 7,
+                "t": "span"
+              }
+            ],
+            "i": 5,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Double",
+                "i": 10,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 12,
+                  "k": "_gt_cost_12",
+                  "v": "c"
+                },
+                "i": 11,
+                "t": "span"
+              }
+            ],
+            "i": 9,
+            "t": "div"
+          }
+        ],
+        "i": 4,
+        "t": "div"
+      },
+      {
+        "c": [
+          {
+            "c": "Sans lactose",
+            "i": 14,
+            "t": "span"
+          },
+          {
+            "c": "Vegan",
+            "i": 15,
+            "t": "span"
+          }
+        ],
+        "i": 13,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "98c5091460c75f0a": "Café | General Translation",
+  "a1cd636df03957e3": {
+    "c": [
+      {
+        "c": "Matcha Latte",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": "Matcha de qualité cérémonielle fouetté avec le lait chaud de votre choix.",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": "Petit",
+                "i": 6,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 8,
+                  "k": "_gt_cost_8",
+                  "v": "c"
+                },
+                "i": 7,
+                "t": "span"
+              }
+            ],
+            "i": 5,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Moyen",
+                "i": 10,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 12,
+                  "k": "_gt_cost_12",
+                  "v": "c"
+                },
+                "i": 11,
+                "t": "span"
+              }
+            ],
+            "i": 9,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Grand",
+                "i": 14,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 16,
+                  "k": "_gt_cost_16",
+                  "v": "c"
+                },
+                "i": 15,
+                "t": "span"
+              }
+            ],
+            "i": 13,
+            "t": "div"
+          }
+        ],
+        "i": 4,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
   },
   "c0e48e5dd8882fb8": {
     "c": [
@@ -80,16 +608,184 @@
     "i": 1,
     "t": "div"
   },
-  "e91062c6388cb614": [
-    {
-      "c": "Menu",
-      "i": 1,
-      "t": "h2"
-    },
-    {
-      "c": "Boissons artisanales préparées avec des ingrédients soigneusement sélectionnés. Tous les prix sont en USD. Lait d'avoine, d'amande et de soja disponibles en substitution pour toute boisson.",
-      "i": 2,
-      "t": "p"
-    }
-  ]
+  "c192f4ffea7d6d00": {
+    "c": [
+      {
+        "c": "Spiced Chai",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": "Thé noir infusé à la cannelle, à la cardamome, au gingembre et au clou de girofle, préparé à la vapeur avec du lait.",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": "Petit",
+                "i": 6,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 8,
+                  "k": "_gt_cost_8",
+                  "v": "c"
+                },
+                "i": 7,
+                "t": "span"
+              }
+            ],
+            "i": 5,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Moyen",
+                "i": 10,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 12,
+                  "k": "_gt_cost_12",
+                  "v": "c"
+                },
+                "i": 11,
+                "t": "span"
+              }
+            ],
+            "i": 9,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Grand",
+                "i": 14,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 16,
+                  "k": "_gt_cost_16",
+                  "v": "c"
+                },
+                "i": 15,
+                "t": "span"
+              }
+            ],
+            "i": 13,
+            "t": "div"
+          }
+        ],
+        "i": 4,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  },
+  "f44ac3dbf099cb49": {
+    "c": [
+      {
+        "c": "Latte au Lait d'Avoine",
+        "i": 2,
+        "t": "h3"
+      },
+      {
+        "c": "Espresso onctueux avec du lait d'avoine crémeux pour une touche naturellement sucrée.",
+        "i": 3,
+        "t": "p"
+      },
+      {
+        "c": [
+          {
+            "c": [
+              {
+                "c": "Petit",
+                "i": 6,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 8,
+                  "k": "_gt_cost_8",
+                  "v": "c"
+                },
+                "i": 7,
+                "t": "span"
+              }
+            ],
+            "i": 5,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Moyen",
+                "i": 10,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 12,
+                  "k": "_gt_cost_12",
+                  "v": "c"
+                },
+                "i": 11,
+                "t": "span"
+              }
+            ],
+            "i": 9,
+            "t": "div"
+          },
+          {
+            "c": [
+              {
+                "c": "Grand",
+                "i": 14,
+                "t": "span"
+              },
+              {
+                "c": {
+                  "i": 16,
+                  "k": "_gt_cost_16",
+                  "v": "c"
+                },
+                "i": 15,
+                "t": "span"
+              }
+            ],
+            "i": 13,
+            "t": "div"
+          }
+        ],
+        "i": 4,
+        "t": "div"
+      },
+      {
+        "c": [
+          {
+            "c": "Sans lactose",
+            "i": 18,
+            "t": "span"
+          },
+          {
+            "c": "Végétalien",
+            "i": 19,
+            "t": "span"
+          }
+        ],
+        "i": 17,
+        "t": "div"
+      }
+    ],
+    "i": 1,
+    "t": "div"
+  }
 }
